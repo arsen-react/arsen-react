@@ -1,16 +1,41 @@
-## Hi there 👋
+👋 Hi, I'm Arsen Melqonyan
 
-<!--
-**arsen-react/arsen-react** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer specializing in React, Redux Toolkit & TypeScript.
+I build scalable fintech web applications with a focus on clean architecture, performance optimization, and reusable UI systems.
 
-Here are some ideas to get you started:
+🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚛️ React Architecture & Scalable Component Systems
+
+🧠 Advanced State Management (Redux Toolkit & RTK Query)
+
+⚡ Performance Optimization (Code Splitting, Lazy Loading, Memoization)
+
+🏗 Frontend Refactoring & Technical Debt Reduction
+
+🎨 UI Systems (MUI, Ant Design, TailwindCSS)
+
+🛠 Vite Configuration & Production Optimization
+
+🤝 Code Reviews & Mentoring
+
+🧰 Tech Stack
+
+Languages:
+JavaScript (ES6+), TypeScript, HTML5, CSS3
+
+Frameworks & Libraries:
+React.js, Redux Toolkit, RTK Query, Formik, DnD
+
+Tools & Architecture:
+Vite, PWA, ESLint, Git, REST APIs
+
+📈 Currently
+
+Building and optimizing production-grade fintech applications with performance-sensitive interfaces and scalable frontend architecture.
+
+📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/arsen-melkonyan
+
+📧 Email: arsen.front@gmail.com
