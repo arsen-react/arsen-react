@@ -1,41 +1,67 @@
-👋 Hi, I'm Arsen Melqonyan
+# 👋 Hi, I'm Arsen Melqonyan
 
-Frontend Engineer specializing in React, Redux Toolkit & TypeScript.
-I build scalable fintech web applications with a focus on clean architecture, performance optimization, and reusable UI systems.
+Frontend Engineer specializing in **React, Redux Toolkit & TypeScript**.  
+I build scalable fintech web applications focused on clean architecture, performance optimization, and maintainable UI systems.
 
-🚀 What I Do
+---
 
-⚛️ React Architecture & Scalable Component Systems
+## 📊 GitHub Activity
 
-🧠 Advanced State Management (Redux Toolkit & RTK Query)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arsen-react&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsen-react&layout=compact&theme=tokyonight" />
+</p>
 
-⚡ Performance Optimization (Code Splitting, Lazy Loading, Memoization)
+---
 
-🏗 Frontend Refactoring & Technical Debt Reduction
+## 🚀 What I Do
 
-🎨 UI Systems (MUI, Ant Design, TailwindCSS)
+- ⚛️ Architect scalable React applications
+- 🧠 Advanced state management (Redux Toolkit & RTK Query)
+- ⚡ Performance optimization (Code Splitting, Lazy Loading, Memoization)
+- 🏗 Refactor legacy systems & reduce technical debt
+- 🎨 Build reusable UI systems (MUI, Ant Design, TailwindCSS)
+- 🛠 Configure Vite, PWA & production builds
+- 🤝 Conduct code reviews & mentor team members
 
-🛠 Vite Configuration & Production Optimization
+---
 
-🤝 Code Reviews & Mentoring
+## 🧰 Tech Stack
 
-🧰 Tech Stack
-
-Languages:
+### Languages
 JavaScript (ES6+), TypeScript, HTML5, CSS3
 
-Frameworks & Libraries:
-React.js, Redux Toolkit, RTK Query, Formik, DnD
+### Frontend
+React.js, Redux Toolkit, RTK Query, Formik, Drag & Drop
 
-Tools & Architecture:
-Vite, PWA, ESLint, Git, REST APIs
+### UI & Styling
+Material UI (MUI), Ant Design, TailwindCSS, Sass
 
-📈 Currently
+### Tools & Architecture
+Vite, PWA Configuration, ESLint, REST APIs, Git
 
-Building and optimizing production-grade fintech applications with performance-sensitive interfaces and scalable frontend architecture.
+---
 
-📫 Connect With Me
+## 📈 Impact
 
-💼 LinkedIn: https://www.linkedin.com/in/arsen-melkonyan
+- 🚀 Reduced bundle size by 20%
+- ⚡ Improved load time by 30%
+- 🛠 Refactored legacy module reducing bugs by 40%
+- 📊 Increased Lighthouse performance score from 65 → 92
 
-📧 Email: arsen.front@gmail.com
+---
+
+## 🏢 Industry Experience
+
+Primarily working on **fintech web applications**, building secure, performance-sensitive dashboards and scalable internal systems.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/arsen-melkonyan
+- 📧 Email: arsen.front@gmail.com
+
+---
+
+> Clean code. Scalable architecture. Performance-first mindset.
