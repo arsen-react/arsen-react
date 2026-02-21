@@ -5,15 +5,6 @@ I build scalable fintech web applications focused on clean architecture, perform
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arsen-react&show_icons=true&theme=tokyonight" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsen-react&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 What I Do
 
 - ⚛️ Architect scalable React applications
