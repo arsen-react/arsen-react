@@ -6,7 +6,7 @@ I build React and TypeScript admin consoles for payment and ticketing platforms 
 
 ## Featured project
 
-**[CryptoLiveDash](https://github.com/arsen-react/CryptoLiveDash)** — a real-time crypto trading dashboard with live Binance WebSocket data, TradingView charts, RTK Query, drag-and-drop widgets and 83 Vitest tests.
+**[CryptoLiveDash](https://github.com/arsen-react/CryptoLiveDash)** — a real-time crypto trading dashboard with live Binance WebSocket data, TradingView charts, RTK Query, drag-and-drop widgets and 170+ Vitest tests with coverage gates in CI.
 
 ## Stack
 
